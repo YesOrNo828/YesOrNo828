@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Software Engineer. Work At ByteDance Firm.<br>Experienced In Fields Of Big Data, Flink, Iceberg, Crawler, etc. <br>Passionate About Technology, Architecture & Design.
+Senior Software Engineer. Work At ByteDance and NetEase Firm.<br>Experienced In Fields Of Big Data, Flink, Iceberg, Crawler, etc. <br>Passionate About Technology, Architecture & Design.
 
 
 ## 🌐 Socials:
